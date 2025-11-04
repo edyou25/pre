@@ -26,7 +26,7 @@ cat > "$INDEX_FILE" << 'EOF'
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>导盲机器人演示文稿</title>
+    <title>MyPres</title>
     <style>
         body {
             font-family: 'Noto Sans SC', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
