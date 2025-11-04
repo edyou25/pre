@@ -6,10 +6,18 @@ INDEX_FILE="index.html"
 
 # 演示文稿描述映射（从文件名到描述）
 declare -A DESCRIPTIONS=(
-    ["presentation1"]="研究背景与动机"
-    ["presentation2"]="相关工作总结"
-    ["presentation3"]="研究方法与实验"
-    ["presentation4"]="研究进度汇报 - 包含 Related Work、Baseline实验、Research计划与进度规划"
+    ["presentation1"]="Motivation"
+    ["presentation2"]="Quadruped Model"
+    ["presentation3"]="Biped Model"
+    ["presentation4"]="Research Proposal"
+)
+
+# 演示文稿显示名称映射
+declare -A DISPLAY_NAMES=(
+    ["presentation1"]="Pre 1"
+    ["presentation2"]="Pre 2"
+    ["presentation3"]="Pre 3"
+    ["presentation4"]="Pre 4"
 )
 
 cat > "$INDEX_FILE" << 'EOF'
@@ -66,8 +74,7 @@ cat > "$INDEX_FILE" << 'EOF'
     </style>
 </head>
 <body>
-    <h1>导盲机器人研究演示文稿</h1>
-    <p>Wheel-Legged Biped GuideRobot - 绳索耦合的人机协作导航系统</p>
+    <h1> My Pres</h1>
     
     <ul class="presentation-list">
 EOF
@@ -77,10 +84,12 @@ for html_file in presentation*.html; do
     if [ -f "$html_file" ]; then
         # 提取文件名（不含扩展名）
         filename=$(basename "$html_file" .html)
-        display_name="${filename/presentation/演示文稿 }"
+        
+        # 获取显示名称，如果没有则使用默认格式
+        display_name="${DISPLAY_NAMES[$filename]:-${filename/presentation/Pre }}"
         
         # 获取描述，如果没有则使用默认值
-        description="${DESCRIPTIONS[$filename]:-研究演示文稿}"
+        description="${DESCRIPTIONS[$filename]:-Presentation}"
         
         # 获取文件修改时间
         if command -v stat >/dev/null 2>&1; then
@@ -103,7 +112,7 @@ EOF
         
         if [ -n "$mod_time" ]; then
             cat >> "$INDEX_FILE" << EOF
-            <div class="meta">最后更新: $mod_time</div>
+            <div class="meta">Last updated: $mod_time</div>
 EOF
         fi
         
