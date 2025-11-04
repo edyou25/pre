@@ -1,3 +1,18 @@
+#!/bin/bash
+
+# 自动生成 index.html，列出所有可用的演示文稿
+
+INDEX_FILE="index.html"
+
+# 演示文稿描述映射（从文件名到描述）
+declare -A DESCRIPTIONS=(
+    ["presentation1"]="研究背景与动机"
+    ["presentation2"]="相关工作总结"
+    ["presentation3"]="研究方法与实验"
+    ["presentation4"]="研究进度汇报 - 包含 Related Work、Baseline实验、Research计划与进度规划"
+)
+
+cat > "$INDEX_FILE" << 'EOF'
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -55,26 +70,50 @@
     <p>Wheel-Legged Biped GuideRobot - 绳索耦合的人机协作导航系统</p>
     
     <ul class="presentation-list">
+EOF
+
+# 查找所有 presentation*.html 文件并按名称排序
+for html_file in presentation*.html; do
+    if [ -f "$html_file" ]; then
+        # 提取文件名（不含扩展名）
+        filename=$(basename "$html_file" .html)
+        display_name="${filename/presentation/演示文稿 }"
+        
+        # 获取描述，如果没有则使用默认值
+        description="${DESCRIPTIONS[$filename]:-研究演示文稿}"
+        
+        # 获取文件修改时间
+        if command -v stat >/dev/null 2>&1; then
+            if [[ "$OSTYPE" == "darwin"* ]]; then
+                # macOS
+                mod_time=$(stat -f "%Sm" -t "%Y-%m-%d" "$html_file" 2>/dev/null || echo "")
+            else
+                # Linux
+                mod_time=$(stat -c "%y" "$html_file" 2>/dev/null | cut -d' ' -f1 || echo "")
+            fi
+        else
+            mod_time=""
+        fi
+        
+        cat >> "$INDEX_FILE" << EOF
         <li>
-            <a href="presentation1.html">演示文稿 1</a>
-            <div class="description">研究背景与动机</div>
-            <div class="meta">最后更新: 2025-11-04</div>
+            <a href="$html_file">$display_name</a>
+            <div class="description">$description</div>
+EOF
+        
+        if [ -n "$mod_time" ]; then
+            cat >> "$INDEX_FILE" << EOF
+            <div class="meta">最后更新: $mod_time</div>
+EOF
+        fi
+        
+        cat >> "$INDEX_FILE" << EOF
         </li>
-        <li>
-            <a href="presentation2.html">演示文稿 2</a>
-            <div class="description">相关工作总结</div>
-            <div class="meta">最后更新: 2025-11-04</div>
-        </li>
-        <li>
-            <a href="presentation3.html">演示文稿 3</a>
-            <div class="description">研究方法与实验</div>
-            <div class="meta">最后更新: 2025-11-04</div>
-        </li>
-        <li>
-            <a href="presentation4.html">演示文稿 4</a>
-            <div class="description">研究进度汇报 - 包含 Related Work、Baseline实验、Research计划与进度规划</div>
-            <div class="meta">最后更新: 2025-11-04</div>
-        </li>
+EOF
+    fi
+done
+
+cat >> "$INDEX_FILE" << 'EOF'
     </ul>
     
     <footer style="margin-top: 40px; color: #999; font-size: 12px;">
@@ -83,3 +122,7 @@
     </footer>
 </body>
 </html>
+EOF
+
+echo "Generated index.html with $(ls -1 presentation*.html 2>/dev/null | wc -l) presentation(s)"
+
