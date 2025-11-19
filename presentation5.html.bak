@@ -341,22 +341,20 @@ img {
   font-size: 18px;
 }
 " lang="en-US" data-marpit-pagination="2" style="--paginate:true;--header:四足导盲犬研究计划 | PolyU;--footer:© 2025 Hong Kong Polytechnic University;--theme:default;--style:@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700&amp;display=swap')
-;" data-marpit-pagination-total="15">
+;" data-marpit-pagination-total="23">
 <header>四足导盲犬研究计划 | PolyU</header>
 <ul>
 <li>[x] <strong>UC Berkeley</strong> - Robotic Guide Dog: Leash-Guided Hybrid Physical Interaction (ICRA)</li>
 <li>[x] <strong>清华</strong> - Quadruped Guidance Robot: A Comfort-Based Approach (CHI 2022)</li>
 <li>[x] <strong>山东大学</strong> - Comfortable Interaction Strategy Using Quadruped Guidance Robot</li>
 <li>[x] <strong>上海交大</strong> - Force-Compliant MPC and Robot-User CBF</li>
-<li>[ ] <strong>北理工</strong> - Adaptive Interaction Control for Human-Quadruped Load Motion</li>
-<li>[ ] <strong>北理工</strong> - Hierarchical Cooperative Motion Control Based on Interaction Force</li>
-<li>[ ] <strong>天津大学</strong> - Physical Human-Robot Interaction Force Transmission Characteristics</li>
+<li>[x] <strong>北理工</strong> - Adaptive Interaction Control for Human-Quadruped Load Motion</li>
+<li>[x] <strong>北理工</strong> - Hierarchical Cooperative Motion Control Based on Interaction Force</li>
+<li>[x] <strong>天津大学</strong> - Physical Human-Robot Interaction Force Transmission Characteristics</li>
 <li>[ ] <strong>同济大学</strong> - MGL4QGR: Multi-Gait Locomotion for Quadruped Guide Robot</li>
 <li>[ ] <strong>PRISMA</strong> - Learning Human Behavior for Robotic Guide Dogs (DRL)</li>
 <li>[ ] <strong>麻省大学</strong> - Human-Centered Development: Quiet and Stable Locomotion Control</li>
 <li>[ ] <strong>南京理工</strong> - Nonlinear MPC for Omnidirectional Guidance Robot</li>
-<li>[ ] <strong>上海交大</strong> - HexGuide with Improved A* and MPC</li>
-<li>[ ] <strong>上海交大</strong> - Robot-User CBF for Interactive Navigation</li>
 <li>[ ] <strong>麻省大学</strong> - Is it Safe to Cross? GPT-4V Risk Assessment</li>
 <li>[ ] <strong>西湖大学</strong> - Robotic Guide Dog for Visually Impaired</li>
 <li>[ ] <strong>新加坡国立</strong> - RDog: Quadruped Robot Guiding System</li>
@@ -529,9 +527,9 @@ img {
   font-size: 18px;
 }
 " lang="en-US" data-marpit-pagination="3" style="--paginate:true;--header:四足导盲犬研究计划 | PolyU;--footer:© 2025 Hong Kong Polytechnic University;--theme:default;--style:@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700&amp;display=swap')
-;" data-marpit-pagination-total="15">
+;" data-marpit-pagination-total="23">
 <header>四足导盲犬研究计划 | PolyU</header>
-<h3 id="uc-berkeley---robotic-guide-dog-leash-guided-hybrid-physical-interaction-icra"><strong>UC Berkeley</strong> - Robotic Guide Dog: Leash-Guided Hybrid Physical Interaction (ICRA)</h3>
+<h3 id="uc-berkeley---robotic-guide-dog-leash-guided-hybrid-physical-interaction-icra-2021"><strong>UC Berkeley</strong> - Robotic Guide Dog: Leash-Guided Hybrid Physical Interaction (ICRA 2021)</h3>
 <p><a href="https://anxingxiao.com/">https://anxingxiao.com/</a></p>
 <p><img src="assets/videos/ucb.gif" alt="" /></p>
 <ul>
@@ -703,7 +701,7 @@ img {
   font-size: 18px;
 }
 " lang="en-US" data-marpit-pagination="4" style="--paginate:true;--header:四足导盲犬研究计划 | PolyU;--footer:© 2025 Hong Kong Polytechnic University;--theme:default;--style:@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700&amp;display=swap')
-;" data-marpit-pagination-total="15">
+;" data-marpit-pagination-total="23">
 <header>四足导盲犬研究计划 | PolyU</header>
 <h2 id="%E6%B7%B7%E5%90%88%E7%89%A9%E7%90%86%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92%E6%A8%A1%E5%9E%8B-phri">混合物理人机交互模型 (pHRI)</h2>
 <h3 id="%E7%B3%BB%E7%BB%9F%E7%8A%B6%E6%80%81">系统状态</h3>
@@ -880,7 +878,7 @@ img {
   font-size: 18px;
 }
 " lang="en-US" data-marpit-pagination="5" style="--paginate:true;--header:四足导盲犬研究计划 | PolyU;--footer:© 2025 Hong Kong Polytechnic University;--theme:default;--style:@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700&amp;display=swap')
-;" data-marpit-pagination-total="15">
+;" data-marpit-pagination-total="23">
 <header>四足导盲犬研究计划 | PolyU</header>
 <h2 id="%E6%B7%B7%E5%90%88%E5%8A%A8%E5%8A%9B%E5%AD%A6%E6%A8%A1%E5%9E%8B">混合动力学模型</h2>
 <div class="columns">
@@ -1065,7 +1063,7 @@ img {
   font-size: 18px;
 }
 " lang="en-US" data-marpit-pagination="6" style="--paginate:true;--header:四足导盲犬研究计划 | PolyU;--footer:© 2025 Hong Kong Polytechnic University;--theme:default;--style:@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700&amp;display=swap')
-;" data-marpit-pagination-total="15">
+;" data-marpit-pagination-total="23">
 <header>四足导盲犬研究计划 | PolyU</header>
 <h2 id="%E6%B7%B7%E5%90%88%E6%95%B4%E6%95%B0%E4%BC%98%E5%8C%96%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92">混合整数优化路径规划</h2>
 <h3 id="%E4%BC%98%E5%8C%96%E9%97%AE%E9%A2%98">优化问题</h3>
@@ -1236,7 +1234,7 @@ img {
   font-size: 18px;
 }
 " lang="en-US" data-marpit-pagination="7" style="--paginate:true;--header:四足导盲犬研究计划 | PolyU;--footer:© 2025 Hong Kong Polytechnic University;--theme:default;--style:@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700&amp;display=swap')
-;" data-marpit-pagination-total="15">
+;" data-marpit-pagination-total="23">
 <header>四足导盲犬研究计划 | PolyU</header>
 <ul>
 <li>根据力判断的切换系统<br />
@@ -1410,7 +1408,7 @@ img {
   font-size: 18px;
 }
 " lang="en-US" data-marpit-pagination="8" style="--paginate:true;--header:四足导盲犬研究计划 | PolyU;--footer:© 2025 Hong Kong Polytechnic University;--theme:default;--style:@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700&amp;display=swap')
-;" data-marpit-pagination-total="15">
+;" data-marpit-pagination-total="23">
 <header>四足导盲犬研究计划 | PolyU</header>
 <p>启发点：</p>
 <ul>
@@ -1601,7 +1599,7 @@ img {
   font-size: 18px;
 }
 " lang="en-US" data-marpit-pagination="9" style="--paginate:true;--header:四足导盲犬研究计划 | PolyU;--footer:© 2025 Hong Kong Polytechnic University;--theme:default;--style:@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700&amp;display=swap')
-;" data-marpit-pagination-total="15">
+;" data-marpit-pagination-total="23">
 <header>四足导盲犬研究计划 | PolyU</header>
 <p>缺点：</p>
 <ul>
@@ -1803,7 +1801,7 @@ img {
   font-size: 18px;
 }
 " lang="en-US" data-marpit-pagination="10" style="--paginate:true;--header:四足导盲犬研究计划 | PolyU;--footer:© 2025 Hong Kong Polytechnic University;--theme:default;--style:@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700&amp;display=swap')
-;" data-marpit-pagination-total="15">
+;" data-marpit-pagination-total="23">
 <header>四足导盲犬研究计划 | PolyU</header>
 <h3 id="%E6%B8%85%E5%8D%8E---quadruped-guidance-robot-a-comfort-based-approach-icra-2023"><strong>清华</strong> - Quadruped Guidance Robot: A Comfort-Based Approach (ICRA 2023)</h3>
 <p><strong>硬件改进：</strong> 弹性绳+绞盘+力传感器=力闭环控制<br />
@@ -1979,7 +1977,7 @@ img {
   font-size: 18px;
 }
 " lang="en-US" data-marpit-pagination="11" style="--paginate:true;--header:四足导盲犬研究计划 | PolyU;--footer:© 2025 Hong Kong Polytechnic University;--theme:default;--style:@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700&amp;display=swap')
-;" data-marpit-pagination-total="15">
+;" data-marpit-pagination-total="23">
 <header>四足导盲犬研究计划 | PolyU</header>
 <p><strong>架构改进：</strong> human planning + robot planning</p>
 <ul>
@@ -2156,7 +2154,7 @@ img {
   font-size: 18px;
 }
 " lang="en-US" data-marpit-pagination="12" style="--paginate:true;--header:四足导盲犬研究计划 | PolyU;--footer:© 2025 Hong Kong Polytechnic University;--theme:default;--style:@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700&amp;display=swap')
-;" data-marpit-pagination-total="15">
+;" data-marpit-pagination-total="23">
 <header>四足导盲犬研究计划 | PolyU</header>
 <p>我认为UCB论文需要改进的点&amp;实际改进的点</p>
 <ul>
@@ -2346,9 +2344,9 @@ img {
   font-size: 18px;
 }
 " lang="en-US" data-marpit-pagination="13" style="--paginate:true;--header:四足导盲犬研究计划 | PolyU;--footer:© 2025 Hong Kong Polytechnic University;--theme:default;--style:@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700&amp;display=swap')
-;" data-marpit-pagination-total="15">
+;" data-marpit-pagination-total="23">
 <header>四足导盲犬研究计划 | PolyU</header>
-<h3 id="%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6---comfortable-interaction-strategy-using-quadruped-guidance-robot"><strong>山东大学</strong> - Comfortable Interaction Strategy Using Quadruped Guidance Robot</h3>
+<h3 id="%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6---comfortable-interaction-strategy-using-quadruped-guidance-robotccc"><strong>山东大学</strong> - Comfortable Interaction Strategy Using Quadruped Guidance Robot（CCC）</h3>
 <p>Related Works:</p>
 <ul>
 <li>UCB论文：人主要作为负载，没有提供交互体验，但后续已经优化</li>
@@ -2536,10 +2534,14 @@ img {
   font-size: 18px;
 }
 " lang="en-US" data-marpit-pagination="14" style="--paginate:true;--header:四足导盲犬研究计划 | PolyU;--footer:© 2025 Hong Kong Polytechnic University;--theme:default;--style:@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700&amp;display=swap')
-;" data-marpit-pagination-total="15">
+;" data-marpit-pagination-total="23">
 <header>四足导盲犬研究计划 | PolyU</header>
-<h3 id="%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7---force-compliant-mpc-and-robot-user-cbf"><strong>上海交大</strong> - Force-Compliant MPC and Robot-User CBF</h3>
+<h3 id="%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7---force-compliant-mpc-and-robot-user-cbf-t-ase"><strong>上海交大</strong> - Force-Compliant MPC and Robot-User CBF （T-ASE）</h3>
 <p><img src="assets/pictures/sjtu1.png" alt="" /></p>
+<ul>
+<li>力估计/力顺应(根据力的估计方向调整target)</li>
+<li>论文中没有展示力估计，我有点怀疑准确性（通过电机输出与真实关节扭矩的偏差，直接拟合四足接触外力和用户输入外力）</li>
+</ul>
 <footer>© 2025 Hong Kong Polytechnic University</footer>
 </section>
 </foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="15" data-paginate="true" data-header="四足导盲犬研究计划 | PolyU" data-footer="© 2025 Hong Kong Polytechnic University" data-theme="default" data-style="@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700&amp;display=swap');
@@ -2705,9 +2707,1494 @@ img {
   font-size: 18px;
 }
 " lang="en-US" data-marpit-pagination="15" style="--paginate:true;--header:四足导盲犬研究计划 | PolyU;--footer:© 2025 Hong Kong Polytechnic University;--theme:default;--style:@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700&amp;display=swap')
-;" data-marpit-pagination-total="15">
+;" data-marpit-pagination-total="23">
 <header>四足导盲犬研究计划 | PolyU</header>
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114975167220773&bvid=BV1ETtEzBEu9&cid=31500404603&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><footer>© 2025 Hong Kong Polytechnic University</footer>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114975167220773&bvid=BV1ETtEzBEu9&cid=31500404603&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<footer>© 2025 Hong Kong Polytechnic University</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="16" data-paginate="true" data-header="四足导盲犬研究计划 | PolyU" data-footer="© 2025 Hong Kong Polytechnic University" data-theme="default" data-style="@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700&amp;display=swap');
+
+section {
+  background-color: #ffffff;
+  font-family: 'Noto Sans SC', sans-serif;
+  color: #333333;
+  font-size: 18px;
+  padding: 50px 80px;
+}
+
+header {
+  color: #A72335;
+  font-size: 12px;
+  font-weight: 300;
+}
+
+footer {
+  color: #666666;
+  font-size: 11px;
+}
+
+h1 {
+  color: #A72335;
+  border-bottom: 4px solid #A72335;
+  padding-bottom: 8px;
+  font-weight: 700;
+  font-size: 42px;
+  margin-bottom: 15px;
+}
+
+h2 {
+  color: #A72335;
+  border-left: 6px solid #D4AF37;
+  padding-left: 12px;
+  font-weight: 700;
+  font-size: 28px;
+  margin: 15px 0 10px 0;
+}
+
+h3 {
+  color: #555555;
+  font-weight: 600;
+  font-size: 22px;
+  margin: 12px 0 8px 0;
+}
+
+p {
+  font-size: 18px;
+  margin: 8px 0;
+  line-height: 1.5;
+}
+
+strong {
+  color: #A72335;
+  font-weight: 700;
+}
+
+a {
+  color: #A72335;
+}
+
+blockquote {
+  border-left: 4px solid #D4AF37;
+  background-color: #f9f9f9;
+  padding: 8px 15px;
+  font-style: italic;
+  color: #555555;
+  margin: 10px 0;
+}
+
+code {
+  background-color: #f5f5f5;
+  color: #A72335;
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-size: 16px;
+}
+
+ul, ol {
+  line-height: 1.5;
+  font-size: 18px;
+  margin: 8px 0;
+  padding-left: 25px;
+}
+
+li {
+  margin: 5px 0;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 10px auto;
+  font-size: 16px;
+}
+
+th {
+  background-color: #A72335;
+  color: white;
+  padding: 8px 12px;
+  font-size: 16px;
+}
+
+td {
+  padding: 6px 10px;
+  border: 1px solid #ddd;
+  font-size: 16px;
+}
+
+.columns {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 25px;
+  font-size: 18px;
+}
+
+.title-slide {
+  background: linear-gradient(135deg, #A72335 0%, #8B1C2E 100%);
+  color: white;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.title-slide h1 {
+  color: white;
+  border: none;
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.title-slide h2 {
+  color: #D4AF37;
+  border: none;
+  font-size: 32px;
+  font-weight: 400;
+  margin-top: 0;
+  padding: 0;
+}
+
+.title-slide p {
+  color: #f0f0f0;
+  font-size: 18px;
+  margin-top: 30px;
+}
+
+img {
+  display: block;
+  margin: 10px auto;
+  max-height: 350px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.highlight-box {
+  background-color: #fff3cd;
+  border-left: 6px solid #A72335;
+  padding: 10px 15px;
+  margin: 12px 0;
+  border-radius: 4px;
+  font-size: 18px;
+}
+" lang="en-US" data-marpit-pagination="16" style="--paginate:true;--header:四足导盲犬研究计划 | PolyU;--footer:© 2025 Hong Kong Polytechnic University;--theme:default;--style:@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700&amp;display=swap')
+;" data-marpit-pagination-total="23">
+<header>四足导盲犬研究计划 | PolyU</header>
+<h3 id="%E5%8C%97%E7%90%86%E5%B7%A5---adaptive-interaction-control-for-human-quadruped-load-motiont-mec-2024">[ ] <strong>北理工</strong> - Adaptive Interaction Control for Human-Quadruped Load Motion（T-Mec 2024）</h3>
+<p><img src="assets/pictures/arm.png" alt="" /></p>
+<ul>
+<li>手臂柔性机械臂建模，外力估计</li>
+<li>重心估计</li>
+<li>积分逆控制</li>
+</ul>
+<footer>© 2025 Hong Kong Polytechnic University</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="17" data-paginate="true" data-header="四足导盲犬研究计划 | PolyU" data-footer="© 2025 Hong Kong Polytechnic University" data-theme="default" data-style="@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700&amp;display=swap');
+
+section {
+  background-color: #ffffff;
+  font-family: 'Noto Sans SC', sans-serif;
+  color: #333333;
+  font-size: 18px;
+  padding: 50px 80px;
+}
+
+header {
+  color: #A72335;
+  font-size: 12px;
+  font-weight: 300;
+}
+
+footer {
+  color: #666666;
+  font-size: 11px;
+}
+
+h1 {
+  color: #A72335;
+  border-bottom: 4px solid #A72335;
+  padding-bottom: 8px;
+  font-weight: 700;
+  font-size: 42px;
+  margin-bottom: 15px;
+}
+
+h2 {
+  color: #A72335;
+  border-left: 6px solid #D4AF37;
+  padding-left: 12px;
+  font-weight: 700;
+  font-size: 28px;
+  margin: 15px 0 10px 0;
+}
+
+h3 {
+  color: #555555;
+  font-weight: 600;
+  font-size: 22px;
+  margin: 12px 0 8px 0;
+}
+
+p {
+  font-size: 18px;
+  margin: 8px 0;
+  line-height: 1.5;
+}
+
+strong {
+  color: #A72335;
+  font-weight: 700;
+}
+
+a {
+  color: #A72335;
+}
+
+blockquote {
+  border-left: 4px solid #D4AF37;
+  background-color: #f9f9f9;
+  padding: 8px 15px;
+  font-style: italic;
+  color: #555555;
+  margin: 10px 0;
+}
+
+code {
+  background-color: #f5f5f5;
+  color: #A72335;
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-size: 16px;
+}
+
+ul, ol {
+  line-height: 1.5;
+  font-size: 18px;
+  margin: 8px 0;
+  padding-left: 25px;
+}
+
+li {
+  margin: 5px 0;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 10px auto;
+  font-size: 16px;
+}
+
+th {
+  background-color: #A72335;
+  color: white;
+  padding: 8px 12px;
+  font-size: 16px;
+}
+
+td {
+  padding: 6px 10px;
+  border: 1px solid #ddd;
+  font-size: 16px;
+}
+
+.columns {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 25px;
+  font-size: 18px;
+}
+
+.title-slide {
+  background: linear-gradient(135deg, #A72335 0%, #8B1C2E 100%);
+  color: white;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.title-slide h1 {
+  color: white;
+  border: none;
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.title-slide h2 {
+  color: #D4AF37;
+  border: none;
+  font-size: 32px;
+  font-weight: 400;
+  margin-top: 0;
+  padding: 0;
+}
+
+.title-slide p {
+  color: #f0f0f0;
+  font-size: 18px;
+  margin-top: 30px;
+}
+
+img {
+  display: block;
+  margin: 10px auto;
+  max-height: 350px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.highlight-box {
+  background-color: #fff3cd;
+  border-left: 6px solid #A72335;
+  padding: 10px 15px;
+  margin: 12px 0;
+  border-radius: 4px;
+  font-size: 18px;
+}
+" lang="en-US" data-marpit-pagination="17" style="--paginate:true;--header:四足导盲犬研究计划 | PolyU;--footer:© 2025 Hong Kong Polytechnic University;--theme:default;--style:@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700&amp;display=swap')
+;" data-marpit-pagination-total="23">
+<header>四足导盲犬研究计划 | PolyU</header>
+<h3 id="%E4%BD%8E%E5%B1%82%E5%85%B3%E8%8A%82%E6%8E%A7%E5%88%B6"><strong>低层关节控制</strong></h3>
+<ul>
+<li><strong>PD / PID 控制</strong>：最常用，直接调节关节角度和速度。</li>
+<li><strong>力矩控制</strong>：基于动力学模型计算扭矩，精度高。</li>
+<li><strong>关节阻抗控制</strong>：引入弹簧-阻尼模型，提升柔顺性。</li>
+</ul>
+<footer>© 2025 Hong Kong Polytechnic University</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="18" data-paginate="true" data-header="四足导盲犬研究计划 | PolyU" data-footer="© 2025 Hong Kong Polytechnic University" data-theme="default" data-style="@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700&amp;display=swap');
+
+section {
+  background-color: #ffffff;
+  font-family: 'Noto Sans SC', sans-serif;
+  color: #333333;
+  font-size: 18px;
+  padding: 50px 80px;
+}
+
+header {
+  color: #A72335;
+  font-size: 12px;
+  font-weight: 300;
+}
+
+footer {
+  color: #666666;
+  font-size: 11px;
+}
+
+h1 {
+  color: #A72335;
+  border-bottom: 4px solid #A72335;
+  padding-bottom: 8px;
+  font-weight: 700;
+  font-size: 42px;
+  margin-bottom: 15px;
+}
+
+h2 {
+  color: #A72335;
+  border-left: 6px solid #D4AF37;
+  padding-left: 12px;
+  font-weight: 700;
+  font-size: 28px;
+  margin: 15px 0 10px 0;
+}
+
+h3 {
+  color: #555555;
+  font-weight: 600;
+  font-size: 22px;
+  margin: 12px 0 8px 0;
+}
+
+p {
+  font-size: 18px;
+  margin: 8px 0;
+  line-height: 1.5;
+}
+
+strong {
+  color: #A72335;
+  font-weight: 700;
+}
+
+a {
+  color: #A72335;
+}
+
+blockquote {
+  border-left: 4px solid #D4AF37;
+  background-color: #f9f9f9;
+  padding: 8px 15px;
+  font-style: italic;
+  color: #555555;
+  margin: 10px 0;
+}
+
+code {
+  background-color: #f5f5f5;
+  color: #A72335;
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-size: 16px;
+}
+
+ul, ol {
+  line-height: 1.5;
+  font-size: 18px;
+  margin: 8px 0;
+  padding-left: 25px;
+}
+
+li {
+  margin: 5px 0;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 10px auto;
+  font-size: 16px;
+}
+
+th {
+  background-color: #A72335;
+  color: white;
+  padding: 8px 12px;
+  font-size: 16px;
+}
+
+td {
+  padding: 6px 10px;
+  border: 1px solid #ddd;
+  font-size: 16px;
+}
+
+.columns {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 25px;
+  font-size: 18px;
+}
+
+.title-slide {
+  background: linear-gradient(135deg, #A72335 0%, #8B1C2E 100%);
+  color: white;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.title-slide h1 {
+  color: white;
+  border: none;
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.title-slide h2 {
+  color: #D4AF37;
+  border: none;
+  font-size: 32px;
+  font-weight: 400;
+  margin-top: 0;
+  padding: 0;
+}
+
+.title-slide p {
+  color: #f0f0f0;
+  font-size: 18px;
+  margin-top: 30px;
+}
+
+img {
+  display: block;
+  margin: 10px auto;
+  max-height: 350px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.highlight-box {
+  background-color: #fff3cd;
+  border-left: 6px solid #A72335;
+  padding: 10px 15px;
+  margin: 12px 0;
+  border-radius: 4px;
+  font-size: 18px;
+}
+" lang="en-US" data-marpit-pagination="18" style="--paginate:true;--header:四足导盲犬研究计划 | PolyU;--footer:© 2025 Hong Kong Polytechnic University;--theme:default;--style:@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700&amp;display=swap')
+;" data-marpit-pagination-total="23">
+<header>四足导盲犬研究计划 | PolyU</header>
+<h3 id="%E4%B8%AD%E5%B1%82%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6"><strong>中层运动控制</strong></h3>
+<ul>
+<li><strong>Raibert 足端调节</strong>：根据速度误差调整落足位置。</li>
+<li><strong>逆动力学控制</strong>：根据期望轨迹计算关节扭矩。</li>
+<li><strong>积分逆控制</strong>：结合误差积分和广义雅可比伪逆，增强鲁棒性。</li>
+<li><strong>任务空间阻抗控制</strong>：实现柔顺交互。</li>
+</ul>
+<footer>© 2025 Hong Kong Polytechnic University</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="19" data-paginate="true" data-header="四足导盲犬研究计划 | PolyU" data-footer="© 2025 Hong Kong Polytechnic University" data-theme="default" data-style="@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700&amp;display=swap');
+
+section {
+  background-color: #ffffff;
+  font-family: 'Noto Sans SC', sans-serif;
+  color: #333333;
+  font-size: 18px;
+  padding: 50px 80px;
+}
+
+header {
+  color: #A72335;
+  font-size: 12px;
+  font-weight: 300;
+}
+
+footer {
+  color: #666666;
+  font-size: 11px;
+}
+
+h1 {
+  color: #A72335;
+  border-bottom: 4px solid #A72335;
+  padding-bottom: 8px;
+  font-weight: 700;
+  font-size: 42px;
+  margin-bottom: 15px;
+}
+
+h2 {
+  color: #A72335;
+  border-left: 6px solid #D4AF37;
+  padding-left: 12px;
+  font-weight: 700;
+  font-size: 28px;
+  margin: 15px 0 10px 0;
+}
+
+h3 {
+  color: #555555;
+  font-weight: 600;
+  font-size: 22px;
+  margin: 12px 0 8px 0;
+}
+
+p {
+  font-size: 18px;
+  margin: 8px 0;
+  line-height: 1.5;
+}
+
+strong {
+  color: #A72335;
+  font-weight: 700;
+}
+
+a {
+  color: #A72335;
+}
+
+blockquote {
+  border-left: 4px solid #D4AF37;
+  background-color: #f9f9f9;
+  padding: 8px 15px;
+  font-style: italic;
+  color: #555555;
+  margin: 10px 0;
+}
+
+code {
+  background-color: #f5f5f5;
+  color: #A72335;
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-size: 16px;
+}
+
+ul, ol {
+  line-height: 1.5;
+  font-size: 18px;
+  margin: 8px 0;
+  padding-left: 25px;
+}
+
+li {
+  margin: 5px 0;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 10px auto;
+  font-size: 16px;
+}
+
+th {
+  background-color: #A72335;
+  color: white;
+  padding: 8px 12px;
+  font-size: 16px;
+}
+
+td {
+  padding: 6px 10px;
+  border: 1px solid #ddd;
+  font-size: 16px;
+}
+
+.columns {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 25px;
+  font-size: 18px;
+}
+
+.title-slide {
+  background: linear-gradient(135deg, #A72335 0%, #8B1C2E 100%);
+  color: white;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.title-slide h1 {
+  color: white;
+  border: none;
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.title-slide h2 {
+  color: #D4AF37;
+  border: none;
+  font-size: 32px;
+  font-weight: 400;
+  margin-top: 0;
+  padding: 0;
+}
+
+.title-slide p {
+  color: #f0f0f0;
+  font-size: 18px;
+  margin-top: 30px;
+}
+
+img {
+  display: block;
+  margin: 10px auto;
+  max-height: 350px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.highlight-box {
+  background-color: #fff3cd;
+  border-left: 6px solid #A72335;
+  padding: 10px 15px;
+  margin: 12px 0;
+  border-radius: 4px;
+  font-size: 18px;
+}
+" lang="en-US" data-marpit-pagination="19" style="--paginate:true;--header:四足导盲犬研究计划 | PolyU;--footer:© 2025 Hong Kong Polytechnic University;--theme:default;--style:@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700&amp;display=swap')
+;" data-marpit-pagination-total="23">
+<header>四足导盲犬研究计划 | PolyU</header>
+<h3 id="%E9%AB%98%E5%B1%82%E4%BC%98%E5%8C%96%E6%8E%A7%E5%88%B6"><strong>高层优化控制</strong></h3>
+<ul>
+<li><strong>Whole-Body Control (WBC)</strong>：QP 优化，多任务协调。</li>
+<li><strong>Model Predictive Control (MPC)</strong>：预测未来状态，处理约束，适合动态任务。</li>
+<li><strong>强化学习控制</strong>：数据驱动，适合复杂场景。</li>
+</ul>
+<footer>© 2025 Hong Kong Polytechnic University</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="20" data-paginate="true" data-header="四足导盲犬研究计划 | PolyU" data-footer="© 2025 Hong Kong Polytechnic University" data-theme="default" data-style="@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700&amp;display=swap');
+
+section {
+  background-color: #ffffff;
+  font-family: 'Noto Sans SC', sans-serif;
+  color: #333333;
+  font-size: 18px;
+  padding: 50px 80px;
+}
+
+header {
+  color: #A72335;
+  font-size: 12px;
+  font-weight: 300;
+}
+
+footer {
+  color: #666666;
+  font-size: 11px;
+}
+
+h1 {
+  color: #A72335;
+  border-bottom: 4px solid #A72335;
+  padding-bottom: 8px;
+  font-weight: 700;
+  font-size: 42px;
+  margin-bottom: 15px;
+}
+
+h2 {
+  color: #A72335;
+  border-left: 6px solid #D4AF37;
+  padding-left: 12px;
+  font-weight: 700;
+  font-size: 28px;
+  margin: 15px 0 10px 0;
+}
+
+h3 {
+  color: #555555;
+  font-weight: 600;
+  font-size: 22px;
+  margin: 12px 0 8px 0;
+}
+
+p {
+  font-size: 18px;
+  margin: 8px 0;
+  line-height: 1.5;
+}
+
+strong {
+  color: #A72335;
+  font-weight: 700;
+}
+
+a {
+  color: #A72335;
+}
+
+blockquote {
+  border-left: 4px solid #D4AF37;
+  background-color: #f9f9f9;
+  padding: 8px 15px;
+  font-style: italic;
+  color: #555555;
+  margin: 10px 0;
+}
+
+code {
+  background-color: #f5f5f5;
+  color: #A72335;
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-size: 16px;
+}
+
+ul, ol {
+  line-height: 1.5;
+  font-size: 18px;
+  margin: 8px 0;
+  padding-left: 25px;
+}
+
+li {
+  margin: 5px 0;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 10px auto;
+  font-size: 16px;
+}
+
+th {
+  background-color: #A72335;
+  color: white;
+  padding: 8px 12px;
+  font-size: 16px;
+}
+
+td {
+  padding: 6px 10px;
+  border: 1px solid #ddd;
+  font-size: 16px;
+}
+
+.columns {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 25px;
+  font-size: 18px;
+}
+
+.title-slide {
+  background: linear-gradient(135deg, #A72335 0%, #8B1C2E 100%);
+  color: white;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.title-slide h1 {
+  color: white;
+  border: none;
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.title-slide h2 {
+  color: #D4AF37;
+  border: none;
+  font-size: 32px;
+  font-weight: 400;
+  margin-top: 0;
+  padding: 0;
+}
+
+.title-slide p {
+  color: #f0f0f0;
+  font-size: 18px;
+  margin-top: 30px;
+}
+
+img {
+  display: block;
+  margin: 10px auto;
+  max-height: 350px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.highlight-box {
+  background-color: #fff3cd;
+  border-left: 6px solid #A72335;
+  padding: 10px 15px;
+  margin: 12px 0;
+  border-radius: 4px;
+  font-size: 18px;
+}
+" lang="en-US" data-marpit-pagination="20" style="--paginate:true;--header:四足导盲犬研究计划 | PolyU;--footer:© 2025 Hong Kong Polytechnic University;--theme:default;--style:@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700&amp;display=swap')
+;" data-marpit-pagination-total="23">
+<header>四足导盲犬研究计划 | PolyU</header>
+<h3 id="%E5%8C%97%E7%90%86%E5%B7%A5---hierarchical-cooperative-motion-control-based-on-interaction-forcet-mec-2025"><strong>北理工</strong> - Hierarchical Cooperative Motion Control Based on Interaction Force（T-Mec 2025）</h3>
+<ul>
+<li>机器人：搭载传感器，输出电机扭矩</li>
+<li>人：通过绳索牵引，提高机器人的可靠性<br />
+<img src="assets/pictures/bit.png" alt="" /></li>
+</ul>
+<footer>© 2025 Hong Kong Polytechnic University</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="21" data-paginate="true" data-header="四足导盲犬研究计划 | PolyU" data-footer="© 2025 Hong Kong Polytechnic University" data-theme="default" data-style="@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700&amp;display=swap');
+
+section {
+  background-color: #ffffff;
+  font-family: 'Noto Sans SC', sans-serif;
+  color: #333333;
+  font-size: 18px;
+  padding: 50px 80px;
+}
+
+header {
+  color: #A72335;
+  font-size: 12px;
+  font-weight: 300;
+}
+
+footer {
+  color: #666666;
+  font-size: 11px;
+}
+
+h1 {
+  color: #A72335;
+  border-bottom: 4px solid #A72335;
+  padding-bottom: 8px;
+  font-weight: 700;
+  font-size: 42px;
+  margin-bottom: 15px;
+}
+
+h2 {
+  color: #A72335;
+  border-left: 6px solid #D4AF37;
+  padding-left: 12px;
+  font-weight: 700;
+  font-size: 28px;
+  margin: 15px 0 10px 0;
+}
+
+h3 {
+  color: #555555;
+  font-weight: 600;
+  font-size: 22px;
+  margin: 12px 0 8px 0;
+}
+
+p {
+  font-size: 18px;
+  margin: 8px 0;
+  line-height: 1.5;
+}
+
+strong {
+  color: #A72335;
+  font-weight: 700;
+}
+
+a {
+  color: #A72335;
+}
+
+blockquote {
+  border-left: 4px solid #D4AF37;
+  background-color: #f9f9f9;
+  padding: 8px 15px;
+  font-style: italic;
+  color: #555555;
+  margin: 10px 0;
+}
+
+code {
+  background-color: #f5f5f5;
+  color: #A72335;
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-size: 16px;
+}
+
+ul, ol {
+  line-height: 1.5;
+  font-size: 18px;
+  margin: 8px 0;
+  padding-left: 25px;
+}
+
+li {
+  margin: 5px 0;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 10px auto;
+  font-size: 16px;
+}
+
+th {
+  background-color: #A72335;
+  color: white;
+  padding: 8px 12px;
+  font-size: 16px;
+}
+
+td {
+  padding: 6px 10px;
+  border: 1px solid #ddd;
+  font-size: 16px;
+}
+
+.columns {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 25px;
+  font-size: 18px;
+}
+
+.title-slide {
+  background: linear-gradient(135deg, #A72335 0%, #8B1C2E 100%);
+  color: white;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.title-slide h1 {
+  color: white;
+  border: none;
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.title-slide h2 {
+  color: #D4AF37;
+  border: none;
+  font-size: 32px;
+  font-weight: 400;
+  margin-top: 0;
+  padding: 0;
+}
+
+.title-slide p {
+  color: #f0f0f0;
+  font-size: 18px;
+  margin-top: 30px;
+}
+
+img {
+  display: block;
+  margin: 10px auto;
+  max-height: 350px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.highlight-box {
+  background-color: #fff3cd;
+  border-left: 6px solid #A72335;
+  padding: 10px 15px;
+  margin: 12px 0;
+  border-radius: 4px;
+  font-size: 18px;
+}
+" lang="en-US" data-marpit-pagination="21" style="--paginate:true;--header:四足导盲犬研究计划 | PolyU;--footer:© 2025 Hong Kong Polytechnic University;--theme:default;--style:@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700&amp;display=swap')
+;" data-marpit-pagination-total="23">
+<header>四足导盲犬研究计划 | PolyU</header>
+<h4 id="1-%E7%9B%B8%E5%90%8C%E7%A0%94%E7%A9%B6%E8%83%8C%E6%99%AF"><strong>1. 相同研究背景</strong></h4>
+<ul>
+<li>两篇论文都关注<strong>人—四足机器人协作</strong>中的<strong>负载+牵引力</strong></li>
+</ul>
+<h4 id="2-t-ase-2024"><strong>2. T-ASE 2024</strong></h4>
+<ul>
+<li><strong>在线识别负载质心偏移</strong>，修正动力学模型。</li>
+<li>自<strong>适应区分人臂作用力的正负贡献</strong>，动态调整控制策略，保证搬运稳定性。</li>
+</ul>
+<h4 id="3-t-ase-2025"><strong>3. T-ASE 2025</strong></h4>
+<ul>
+<li>在牵引式协同行走中，机器人需快速响应人意图，同时<strong>保持步态稳定</strong>。</li>
+<li>设计<strong>分层控制架构（上层MPC、下层虚拟约束QP）</strong>。</li>
+<li>基于DCM快速<strong>调整落足位置</strong>，提高稳定性和响应速度。</li>
+</ul>
+<h4 id="4-%E6%80%BB%E7%BB%93"><strong>4. 总结</strong></h4>
+<ul>
+<li><strong>2024</strong>聚焦负载运输，核心是<strong>负载参数识别+自适应补偿</strong>。</li>
+<li><strong>2025</strong>聚焦牵引式协同行走，核心是<strong>分层控制+步态规划（DCM）</strong>。</li>
+<li>先解决负载运输中的不确定性（2024），再扩展到更复杂的协同行走与引导问题（2025），体现研究的纵深发展。</li>
+</ul>
+<footer>© 2025 Hong Kong Polytechnic University</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="22" data-paginate="true" data-header="四足导盲犬研究计划 | PolyU" data-footer="© 2025 Hong Kong Polytechnic University" data-theme="default" data-style="@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700&amp;display=swap');
+
+section {
+  background-color: #ffffff;
+  font-family: 'Noto Sans SC', sans-serif;
+  color: #333333;
+  font-size: 18px;
+  padding: 50px 80px;
+}
+
+header {
+  color: #A72335;
+  font-size: 12px;
+  font-weight: 300;
+}
+
+footer {
+  color: #666666;
+  font-size: 11px;
+}
+
+h1 {
+  color: #A72335;
+  border-bottom: 4px solid #A72335;
+  padding-bottom: 8px;
+  font-weight: 700;
+  font-size: 42px;
+  margin-bottom: 15px;
+}
+
+h2 {
+  color: #A72335;
+  border-left: 6px solid #D4AF37;
+  padding-left: 12px;
+  font-weight: 700;
+  font-size: 28px;
+  margin: 15px 0 10px 0;
+}
+
+h3 {
+  color: #555555;
+  font-weight: 600;
+  font-size: 22px;
+  margin: 12px 0 8px 0;
+}
+
+p {
+  font-size: 18px;
+  margin: 8px 0;
+  line-height: 1.5;
+}
+
+strong {
+  color: #A72335;
+  font-weight: 700;
+}
+
+a {
+  color: #A72335;
+}
+
+blockquote {
+  border-left: 4px solid #D4AF37;
+  background-color: #f9f9f9;
+  padding: 8px 15px;
+  font-style: italic;
+  color: #555555;
+  margin: 10px 0;
+}
+
+code {
+  background-color: #f5f5f5;
+  color: #A72335;
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-size: 16px;
+}
+
+ul, ol {
+  line-height: 1.5;
+  font-size: 18px;
+  margin: 8px 0;
+  padding-left: 25px;
+}
+
+li {
+  margin: 5px 0;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 10px auto;
+  font-size: 16px;
+}
+
+th {
+  background-color: #A72335;
+  color: white;
+  padding: 8px 12px;
+  font-size: 16px;
+}
+
+td {
+  padding: 6px 10px;
+  border: 1px solid #ddd;
+  font-size: 16px;
+}
+
+.columns {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 25px;
+  font-size: 18px;
+}
+
+.title-slide {
+  background: linear-gradient(135deg, #A72335 0%, #8B1C2E 100%);
+  color: white;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.title-slide h1 {
+  color: white;
+  border: none;
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.title-slide h2 {
+  color: #D4AF37;
+  border: none;
+  font-size: 32px;
+  font-weight: 400;
+  margin-top: 0;
+  padding: 0;
+}
+
+.title-slide p {
+  color: #f0f0f0;
+  font-size: 18px;
+  margin-top: 30px;
+}
+
+img {
+  display: block;
+  margin: 10px auto;
+  max-height: 350px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.highlight-box {
+  background-color: #fff3cd;
+  border-left: 6px solid #A72335;
+  padding: 10px 15px;
+  margin: 12px 0;
+  border-radius: 4px;
+  font-size: 18px;
+}
+" lang="en-US" data-marpit-pagination="22" style="--paginate:true;--header:四足导盲犬研究计划 | PolyU;--footer:© 2025 Hong Kong Polytechnic University;--theme:default;--style:@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700&amp;display=swap')
+;" data-marpit-pagination-total="23">
+<header>四足导盲犬研究计划 | PolyU</header>
+<h3 id="%E5%A4%A9%E6%B4%A5%E5%A4%A7%E5%AD%A6---physical-human-robot-interaction-force-transmission-characteristics"><strong>天津大学</strong> - Physical Human-Robot Interaction Force Transmission Characteristics</h3>
+<p>比较三种人机物理交互（pHRI）介质在盲人引导机器人中的表现：</p>
+<ul>
+<li><strong>刚性杆</strong></li>
+<li><strong>弹簧阻尼结构</strong></li>
+<li><strong>柔性绳索</strong></li>
+</ul>
+<p>重点分析<strong>力传递特性</strong>和<strong>用户舒适度</strong>。</p>
+<ol>
+<li><strong>刚性杆</strong></li>
+</ol>
+<ul>
+<li><strong>优点：</strong> 力传递迅速，几乎<strong>无损耗</strong>。</li>
+<li><strong>缺点：</strong> 机器人运动变化时<strong>冲击力大</strong>，盲人用户不适感明显。</li>
+</ul>
+<ol start="2">
+<li><strong>弹簧阻尼结构</strong></li>
+</ol>
+<ul>
+<li><strong>优点：</strong> <strong>缓冲</strong>冲击力，过渡平滑。</li>
+<li><strong>缺点：</strong> 力传递<strong>延迟明显</strong>（滞后），即使调整刚度和阻尼系数，波动仍存在。</li>
+</ul>
+<ol start="3">
+<li><strong>柔性绳索</strong></li>
+</ol>
+<ul>
+<li><strong>优点：</strong> 响应时间适中（约1–2秒），力传递稳定，舒适度高。</li>
+<li><strong>缺点：</strong> 有轻微延迟，但可接受，适合步速同步。</li>
+</ul>
+<footer>© 2025 Hong Kong Polytechnic University</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="23" data-paginate="true" data-header="四足导盲犬研究计划 | PolyU" data-footer="© 2025 Hong Kong Polytechnic University" data-theme="default" data-style="@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700&amp;display=swap');
+
+section {
+  background-color: #ffffff;
+  font-family: 'Noto Sans SC', sans-serif;
+  color: #333333;
+  font-size: 18px;
+  padding: 50px 80px;
+}
+
+header {
+  color: #A72335;
+  font-size: 12px;
+  font-weight: 300;
+}
+
+footer {
+  color: #666666;
+  font-size: 11px;
+}
+
+h1 {
+  color: #A72335;
+  border-bottom: 4px solid #A72335;
+  padding-bottom: 8px;
+  font-weight: 700;
+  font-size: 42px;
+  margin-bottom: 15px;
+}
+
+h2 {
+  color: #A72335;
+  border-left: 6px solid #D4AF37;
+  padding-left: 12px;
+  font-weight: 700;
+  font-size: 28px;
+  margin: 15px 0 10px 0;
+}
+
+h3 {
+  color: #555555;
+  font-weight: 600;
+  font-size: 22px;
+  margin: 12px 0 8px 0;
+}
+
+p {
+  font-size: 18px;
+  margin: 8px 0;
+  line-height: 1.5;
+}
+
+strong {
+  color: #A72335;
+  font-weight: 700;
+}
+
+a {
+  color: #A72335;
+}
+
+blockquote {
+  border-left: 4px solid #D4AF37;
+  background-color: #f9f9f9;
+  padding: 8px 15px;
+  font-style: italic;
+  color: #555555;
+  margin: 10px 0;
+}
+
+code {
+  background-color: #f5f5f5;
+  color: #A72335;
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-size: 16px;
+}
+
+ul, ol {
+  line-height: 1.5;
+  font-size: 18px;
+  margin: 8px 0;
+  padding-left: 25px;
+}
+
+li {
+  margin: 5px 0;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 10px auto;
+  font-size: 16px;
+}
+
+th {
+  background-color: #A72335;
+  color: white;
+  padding: 8px 12px;
+  font-size: 16px;
+}
+
+td {
+  padding: 6px 10px;
+  border: 1px solid #ddd;
+  font-size: 16px;
+}
+
+.columns {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 25px;
+  font-size: 18px;
+}
+
+.title-slide {
+  background: linear-gradient(135deg, #A72335 0%, #8B1C2E 100%);
+  color: white;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.title-slide h1 {
+  color: white;
+  border: none;
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.title-slide h2 {
+  color: #D4AF37;
+  border: none;
+  font-size: 32px;
+  font-weight: 400;
+  margin-top: 0;
+  padding: 0;
+}
+
+.title-slide p {
+  color: #f0f0f0;
+  font-size: 18px;
+  margin-top: 30px;
+}
+
+img {
+  display: block;
+  margin: 10px auto;
+  max-height: 350px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.highlight-box {
+  background-color: #fff3cd;
+  border-left: 6px solid #A72335;
+  padding: 10px 15px;
+  margin: 12px 0;
+  border-radius: 4px;
+  font-size: 18px;
+}
+" lang="en-US" data-marpit-pagination="23" style="--paginate:true;--header:四足导盲犬研究计划 | PolyU;--footer:© 2025 Hong Kong Polytechnic University;--theme:default;--style:@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700&amp;display=swap')
+;" data-marpit-pagination-total="23">
+<header>四足导盲犬研究计划 | PolyU</header>
+<p><strong>仿真与实验结果</strong></p>
+<ul>
+<li><strong>刚性杆：</strong> 上升时间 &lt;0.1秒，力峰值尖锐。</li>
+<li><strong>弹簧阻尼：</strong> 上升时间 &gt;15秒，滞后严重。</li>
+<li><strong>柔性绳索：</strong> 上升时间约1–2秒，响应平稳，无过度拉伸。</li>
+</ul>
+<p><strong>结论</strong></p>
+<ul>
+<li>
+<p>柔性绳索在“柔软性”（舒适）与“硬度”（力传递清晰）之间取得最佳平衡，是盲人引导机器人最适合的交互介质。</p>
+</li>
+<li>
+<p>后续研究将关注可靠性和误差分析。</p>
+</li>
+<li>
+<p>[x] <strong>UC Berkeley</strong> - Robotic Guide Dog: Leash-Guided Hybrid Physical Interaction (ICRA)</p>
+</li>
+<li>
+<p>[x] <strong>清华</strong> - Quadruped Guidance Robot: A Comfort-Based Approach (CHI 2022)</p>
+</li>
+<li>
+<p>[x] <strong>山东大学</strong> - Comfortable Interaction Strategy Using Quadruped Guidance Robot</p>
+</li>
+<li>
+<p>[x] <strong>上海交大</strong> - Force-Compliant MPC and Robot-User CBF</p>
+</li>
+<li>
+<p>[x] <strong>北理工</strong> - Adaptive Interaction Control for Human-Quadruped Load Motion</p>
+</li>
+<li>
+<p>[x] <strong>北理工</strong> - Hierarchical Cooperative Motion Control Based on Interaction Force</p>
+</li>
+<li>
+<p>[x] <strong>天津大学</strong> - Physical Human-Robot Interaction Force Transmission Characteristics</p>
+</li>
+<li>
+<p>[ ] <strong>同济大学</strong> - MGL4QGR: Multi-Gait Locomotion for Quadruped Guide Robot</p>
+</li>
+<li>
+<p>[ ] <strong>PRISMA</strong> - Learning Human Behavior for Robotic Guide Dogs (DRL)</p>
+</li>
+<li>
+<p>[ ] <strong>麻省大学</strong> - Human-Centered Development: Quiet and Stable Locomotion Control</p>
+</li>
+<li>
+<p>[ ] <strong>南京理工</strong> - Nonlinear MPC for Omnidirectional Guidance Robot</p>
+</li>
+<li>
+<p>[ ] <strong>麻省大学</strong> - Is it Safe to Cross? GPT-4V Risk Assessment</p>
+</li>
+<li>
+<p>[ ] <strong>西湖大学</strong> - Robotic Guide Dog for Visually Impaired</p>
+</li>
+<li>
+<p>[ ] <strong>新加坡国立</strong> - RDog: Quadruped Robot Guiding System</p>
+</li>
+<li>
+<p>[ ] <strong>佐治亚理工</strong> - Transforming Quadrupeds into Guide Robots</p>
+</li>
+<li>
+<p>[ ] <strong>佐治亚理工</strong> - Understanding Handler-Guide Dog Interactions (CHI 2024)</p>
+</li>
+<li>
+<p>[ ] <strong>奈良科学技术</strong> - Tractor-Trailer Model for Real-time Human Monitoring</p>
+</li>
+</ul>
+<footer>© 2025 Hong Kong Polytechnic University</footer>
 </section>
 <script>!function(){"use strict";const t={h1:{proto:()=>HTMLHeadingElement,attrs:{role:"heading","aria-level":"1"},style:"display: block; font-size: 2em; margin-block-start: 0.67em; margin-block-end: 0.67em; margin-inline-start: 0px; margin-inline-end: 0px; font-weight: bold;"},h2:{proto:()=>HTMLHeadingElement,attrs:{role:"heading","aria-level":"2"},style:"display: block; font-size: 1.5em; margin-block-start: 0.83em; margin-block-end: 0.83em; margin-inline-start: 0px; margin-inline-end: 0px; font-weight: bold;"},h3:{proto:()=>HTMLHeadingElement,attrs:{role:"heading","aria-level":"3"},style:"display: block; font-size: 1.17em; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-weight: bold;"},h4:{proto:()=>HTMLHeadingElement,attrs:{role:"heading","aria-level":"4"},style:"display: block; margin-block-start: 1.33em; margin-block-end: 1.33em; margin-inline-start: 0px; margin-inline-end: 0px; font-weight: bold;"},h5:{proto:()=>HTMLHeadingElement,attrs:{role:"heading","aria-level":"5"},style:"display: block; font-size: 0.83em; margin-block-start: 1.67em; margin-block-end: 1.67em; margin-inline-start: 0px; margin-inline-end: 0px; font-weight: bold;"},h6:{proto:()=>HTMLHeadingElement,attrs:{role:"heading","aria-level":"6"},style:"display: block; font-size: 0.67em; margin-block-start: 2.33em; margin-block-end: 2.33em; margin-inline-start: 0px; margin-inline-end: 0px; font-weight: bold;"},span:{proto:()=>HTMLSpanElement},pre:{proto:()=>HTMLElement,style:"display: block; font-family: monospace; white-space: pre; margin: 1em 0; --marp-auto-scaling-white-space: pre;"}},e="data-marp-auto-scaling-wrapper",i="data-marp-auto-scaling-svg",n="data-marp-auto-scaling-container";class s extends HTMLElement{container;containerSize;containerObserver;svg;svgComputedStyle;svgPreserveAspectRatio="xMinYMid meet";wrapper;wrapperSize;wrapperObserver;constructor(){super();const t=t=>([e])=>{const{width:i,height:n}=e.contentRect;this[t]={width:i,height:n},this.updateSVGRect()};this.attachShadow({mode:"open"}),this.containerObserver=new ResizeObserver(t("containerSize")),this.wrapperObserver=new ResizeObserver(((...e)=>{t("wrapperSize")(...e),this.flushSvgDisplay()}))}static get observedAttributes(){return["data-downscale-only"]}connectedCallback(){this.shadowRoot.innerHTML=`\n<style>\n  svg[${i}] { display: block; width: 100%; height: auto; vertical-align: top; }\n  span[${n}] { display: table; white-space: var(--marp-auto-scaling-white-space, nowrap); width: max-content; }\n</style>\n<div ${e}>\n  <svg part="svg" ${i}>\n    <foreignObject><span ${n}><slot></slot></span></foreignObject>\n  </svg>\n</div>\n    `.split(/\n\s*/).join(""),this.wrapper=this.shadowRoot.querySelector(`div[${e}]`)??void 0;const t=this.svg;this.svg=this.wrapper?.querySelector(`svg[${i}]`)??void 0,this.svg!==t&&(this.svgComputedStyle=this.svg?window.getComputedStyle(this.svg):void 0),this.container=this.svg?.querySelector(`span[${n}]`)??void 0,this.observe()}disconnectedCallback(){this.svg=void 0,this.svgComputedStyle=void 0,this.wrapper=void 0,this.container=void 0,this.observe()}attributeChangedCallback(){this.observe()}flushSvgDisplay(){const{svg:t}=this;t&&(t.style.display="inline",requestAnimationFrame((()=>{t.style.display=""})))}observe(){this.containerObserver.disconnect(),this.wrapperObserver.disconnect(),this.wrapper&&this.wrapperObserver.observe(this.wrapper),this.container&&this.containerObserver.observe(this.container),this.svgComputedStyle&&this.observeSVGStyle(this.svgComputedStyle)}observeSVGStyle(t){const e=()=>{const i=(()=>{const e=t.getPropertyValue("--preserve-aspect-ratio");if(e)return e.trim();return`x${(({textAlign:t,direction:e})=>{if(t.endsWith("left"))return"Min";if(t.endsWith("right"))return"Max";if("start"===t||"end"===t){let i="rtl"===e;return"end"===t&&(i=!i),i?"Max":"Min"}return"Mid"})(t)}YMid meet`})();i!==this.svgPreserveAspectRatio&&(this.svgPreserveAspectRatio=i,this.updateSVGRect()),t===this.svgComputedStyle&&requestAnimationFrame(e)};e()}updateSVGRect(){let t=Math.ceil(this.containerSize?.width??0);const e=Math.ceil(this.containerSize?.height??0);void 0!==this.dataset.downscaleOnly&&(t=Math.max(t,this.wrapperSize?.width??0));const i=this.svg?.querySelector(":scope > foreignObject");if(i?.setAttribute("width",`${t}`),i?.setAttribute("height",`${e}`),this.svg&&(this.svg.setAttribute("viewBox",`0 0 ${t} ${e}`),this.svg.setAttribute("preserveAspectRatio",this.svgPreserveAspectRatio),this.svg.style.height=t<=0||e<=0?"0":""),this.container){const t=this.svgPreserveAspectRatio.toLowerCase();this.container.style.marginLeft=t.startsWith("xmid")||t.startsWith("xmax")?"auto":"0",this.container.style.marginRight=t.startsWith("xmi")?"auto":"0"}}}const r=(t,{attrs:e={},style:i})=>class extends t{constructor(...t){super(...t);for(const[t,i]of Object.entries(e))this.hasAttribute(t)||this.setAttribute(t,i);this._shadow()}static get observedAttributes(){return["data-auto-scaling"]}connectedCallback(){this._update()}attributeChangedCallback(){this._update()}_shadow(){if(!this.shadowRoot)try{this.attachShadow({mode:"open"})}catch(t){if(!(t instanceof Error&&"NotSupportedError"===t.name))throw t}return this.shadowRoot}_update(){const t=this._shadow();if(t){const e=i?`<style>:host { ${i} }</style>`:"";let n="<slot></slot>";const{autoScaling:s}=this.dataset;if(void 0!==s){n=`<marp-auto-scaling exportparts="svg:auto-scaling" ${"downscale-only"===s?"data-downscale-only":""}>${n}</marp-auto-scaling>`}t.innerHTML=e+n}}};let o;const a=Symbol();let l;const c="marpitSVGPolyfill:setZoomFactor,",d=Symbol(),h=Symbol();const g=()=>{const t="Apple Computer, Inc."===navigator.vendor,e=t?[u]:[],i={then:e=>(t?(async()=>{if(void 0===l){const t=document.createElement("canvas");t.width=10,t.height=10;const e=t.getContext("2d"),i=new Image(10,10),n=new Promise((t=>{i.addEventListener("load",(()=>t()))}));i.crossOrigin="anonymous",i.src="data:image/svg+xml;charset=utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2210%22%20height%3D%2210%22%20viewBox%3D%220%200%201%201%22%3E%3CforeignObject%20width%3D%221%22%20height%3D%221%22%20requiredExtensions%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%3E%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20style%3D%22width%3A%201px%3B%20height%3A%201px%3B%20background%3A%20red%3B%20position%3A%20relative%22%3E%3C%2Fdiv%3E%3C%2FforeignObject%3E%3C%2Fsvg%3E",await n,e.drawImage(i,0,0),l=e.getImageData(5,5,1,1).data[3]<128}return l})().then((t=>{null==e||e(t?[u]:[])})):null==e||e([]),i)};return Object.assign(e,i)};let p,m;function u(t){const e="object"==typeof t&&t.target||document,i="object"==typeof t?t.zoom:t;window[h]||(Object.defineProperty(window,h,{configurable:!0,value:!0}),document.body.style.zoom=1.0001,document.body.offsetHeight,document.body.style.zoom=1,window.addEventListener("message",(({data:t,origin:e})=>{if(e===window.origin)try{if(t&&"string"==typeof t&&t.startsWith(c)){const[,e]=t.split(","),i=Number.parseFloat(e);Number.isNaN(i)||(m=i)}}catch(t){console.error(t)}})));let n=!1;Array.from(e.querySelectorAll("svg[data-marpit-svg]"),(t=>{var e,s,r,o;t.style.transform||(t.style.transform="translateZ(0)");const a=i||m||t.currentScale||1;p!==a&&(p=a,n=a);const l=t.getBoundingClientRect(),{length:c}=t.children;for(let i=0;i<c;i+=1){const n=t.children[i];if(n.getScreenCTM){const t=n.getScreenCTM();if(t){const i=null!==(s=null===(e=n.x)||void 0===e?void 0:e.baseVal.value)&&void 0!==s?s:0,c=null!==(o=null===(r=n.y)||void 0===r?void 0:r.baseVal.value)&&void 0!==o?o:0,d=n.children.length;for(let e=0;e<d;e+=1){const s=n.children[e];if("SECTION"===s.tagName){const{style:e}=s;e.transformOrigin||(e.transformOrigin=`${-i}px ${-c}px`),e.transform=`scale(${a}) matrix(${t.a}, ${t.b}, ${t.c}, ${t.d}, ${t.e-l.left}, ${t.f-l.top}) translateZ(0.0001px)`;break}}}}}})),!1!==n&&Array.from(e.querySelectorAll("iframe"),(({contentWindow:t})=>{null==t||t.postMessage(`${c}${n}`,"null"===window.origin?"*":window.origin)}))}function v({once:t=!1,target:e=document}={}){const i=function(t=document){if(t[d])return t[d];let e=!0;const i=()=>{e=!1,delete t[d]};Object.defineProperty(t,d,{configurable:!0,value:i});let n=[],s=!1;(async()=>{try{n=await g()}finally{s=!0}})();const r=()=>{for(const e of n)e({target:t});s&&0===n.length||e&&window.requestAnimationFrame(r)};return r(),i}(e);return t?(i(),()=>{}):i}p=1,m=void 0;const w=Symbol(),b=(e=document)=>{if("undefined"==typeof window)throw new Error("Marp Core's browser script is valid only in browser context.");if(((e=document)=>{const i=window[a];i||customElements.define("marp-auto-scaling",s);for(const n of Object.keys(t)){const s=`marp-${n}`,a=t[n].proto();(o??(o=!!document.createElement("div",{is:"marp-auto-scaling"}).outerHTML.startsWith("<div is"),o))&&a!==HTMLElement?i||customElements.define(s,r(a,{style:t[n].style}),{extends:n}):(i||customElements.define(s,r(HTMLElement,t[n])),e.querySelectorAll(`${n}[is="${s}"]`).forEach((t=>{t.outerHTML=t.outerHTML.replace(new RegExp(`^<${n}`,"i"),`<${s}`).replace(new RegExp(`</${n}>$`,"i"),`</${s}>`)})))}window[a]=!0})(e),e[w])return e[w];const i=v({target:e}),n=()=>{i(),delete e[w]},l=Object.assign(n,{cleanup:n,update:()=>b(e)});return Object.defineProperty(e,w,{configurable:!0,value:l}),l},y=document.currentScript;b(y?y.getRootNode():document)}();
 </script></foreignObject></svg></div><script>/*!! License: https://unpkg.com/@marp-team/marp-cli@4.2.3/lib/bespoke.js.LICENSE.txt */
